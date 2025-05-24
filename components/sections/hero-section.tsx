@@ -1,4 +1,4 @@
-'use client';
+"use clientgith"
 
 import { useEffect, useState } from 'react';
 

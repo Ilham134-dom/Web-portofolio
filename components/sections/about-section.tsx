@@ -89,13 +89,10 @@ export const AboutSection = () => {
       `}</style>
 
       <section className="about-section">
-        <img 
-         
-        />
 
         <h2>About Me</h2>
         <p>
-          Hi! I’m <strong>{SITE_CONSTANT.name}</strong>, a passionate web & mobile developer.
+          Hi! I'm <strong>{SITE_CONSTANT.name}</strong>, a passionate web & mobile developer.
           I love building beautiful, modern, and functional applications using the best tools in the industry.
         </p>
 
